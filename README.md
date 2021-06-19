@@ -14,3 +14,5 @@
 10. Бургер
 11. Плавный скролл
 12. Drag & Drop загрузки изображений
+
+Посмотреть сайт [HERE](https://fatb0yy.github.io/pixel.art-site/dist/)
